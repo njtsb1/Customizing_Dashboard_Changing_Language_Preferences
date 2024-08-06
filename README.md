@@ -12,4 +12,3 @@ Learning to customize your dashboard and modify your language.
 ![Customize dashboard](/dashboard_data.png)
 
 [LICENSE](/LICENSE)
-# Customizing_Dashboard_Changing_Language_Preferences
